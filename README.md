@@ -18,7 +18,7 @@ Documentation
 For more detailed information, refer to:
 
 Presentation Slides
-[Application Demo Video][(link-to-your-APP Features.mp4)](https://drive.google.com/drive/u/0/folders/17HGr9z19E-vPYYnIZaOanZ5Rny-YDjKg)
+(https://drive.google.com/drive/u/0/folders/17HGr9z19E-vPYYnIZaOanZ5Rny-YDjKg)
 Support
 For any issues or feedback, please contact:
 
